@@ -1,2 +1,3 @@
-# Seguridad_Informática
-Repositorio con contenido educativo en materia de ciberseguridad en los entonos de las tecnologías de la información.
+# Seguridad Informática
+¡Bienvenido a mi portafolio! Soy Pablo Jurado Martínez, un profesional en seguridad informática.
+
